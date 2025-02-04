@@ -123,4 +123,6 @@ def main(model, outname, outdir, quants, keep_fp16):
         os.remove(fp16)
 ```
 
+# Final Model
+https://huggingface.co/stevenhsu123/llama_finetune_test
 
